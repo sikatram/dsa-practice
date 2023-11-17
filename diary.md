@@ -21,6 +21,7 @@ This diary serves as a dynamic record of my coding endeavors, focusing on data s
   - [Python](#python-1)
 - [Entries](#entries)
   - [2023](#2023)
+    - [November](#november)
 
 # Concepts
 ## Algorithm Analysis
@@ -189,3 +190,5 @@ This diary serves as a dynamic record of my coding endeavors, focusing on data s
 
 # Entries
 ## 2023
+### November
+- [11/16/2023](practice/2023/11/16/entry.md)

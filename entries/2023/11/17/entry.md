@@ -10,6 +10,7 @@
 - Identified a limitation in `fibonacci_sequence_solution.py`: it does not handle cases where `n` is 1 or less effectively
 
 ## 🏆 Achievements
+
 ### Stack
 - Successfully implemented `Stack()` and `fibonacci_sequence()`
 - Utilized internal methods for streamlined logic execution
@@ -26,6 +27,7 @@
         if not self.is_empty():
             return self.items.pop()
 ```
+
 - Explored different logical constructs for efficiency and readability
 ```python
 # Attempt
@@ -40,6 +42,7 @@
 ```
 
 ## ❌ Mistakes
+
 ### General
 - Need to focus on consistent Python formatting standards, particularly regarding indentation and spacing
 

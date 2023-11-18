@@ -8,7 +8,6 @@
 ### Stack
 - Utilize internal methods for streamlined logic execution
 ```python
-
 # Attempt
     def pop(self):
         # Remove and return the top item from the stack, if not empty
@@ -23,6 +22,7 @@
         if not self.is_empty():
             return self.items.pop()
 ```
+
 - Explore different logical constructs for efficiency and readability
 ```python
 # Attempt
@@ -39,12 +39,13 @@
 ```
 
 ## 🏆 Achievements
+
 ### Stack
 - Successfully implemented methods `__init__`, `push`, `peek`, `is_empty`, and `size`
 
 ## ❌ Mistakes
-### Stack
 
+### Stack
 - Logical inversion in `is_empty` method
 ```python
 # Attempt
@@ -60,6 +61,7 @@
         # Check if the stack is empty
         return len(self.items) == 0
 ```
+
 - `pop()` method should return `None` for an empty stack instead of a string
 ```python
 # Attempt

@@ -12,7 +12,7 @@
 ## 🏆 Achievements
 
 ### Stack
-- Successfully implemented `Stack()` and `fibonacci_sequence()`
+- Successfully implemented `Stack()`
 - Utilized internal methods for streamlined logic execution
 ```python
 # Attempt
@@ -40,6 +40,9 @@
         # Check if the stack is empty
         return len(self.items) == 0
 ```
+
+### Fibonacci Sequence
+- Successfully implemented `fibonacci_sequence()`
 
 ## ❌ Mistakes
 

@@ -9,7 +9,7 @@
 ### Fibonacci Sequence
 - Identified a limitation in `fibonacci_sequence_solution.py`: it does not handle cases where `n` is 1 or less effectively
 
-## 🏆 Accomplishments
+## 🏆 Achievements
 ### Stack
 - Successfully implemented `Stack()` and `fibonacci_sequence()`
 - Utilized internal methods for streamlined logic execution

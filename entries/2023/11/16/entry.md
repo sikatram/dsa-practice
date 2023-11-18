@@ -38,7 +38,7 @@
         return len(self.items) == 0
 ```
 
-## 🏆 Accomplishments
+## 🏆 Achievements
 ### Stack
 - Successfully implemented methods `__init__`, `push`, `peek`, `is_empty`, and `size`
 

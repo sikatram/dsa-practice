@@ -190,6 +190,8 @@ This diary serves as a dynamic record of my coding endeavors, focusing on data s
 
 # Entries
 ## 2023
+### December
+- [12/01/2023](entries/2023/12/01/entry.md)
 ### November
 - [11/16/2023](entries/2023/11/16/entry.md)
 - [11/17/2023](entries/2023/11/17/entry.md)
